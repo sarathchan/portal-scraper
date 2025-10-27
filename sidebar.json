@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Claims Dashboard",
+    "href": "ClaimRegistration2.aspx"
+  },
+  {
+    "text": "Eligibility Checking",
+    "href": "EligibilityChecking2.aspx"
+  },
+  {
+    "text": "Create Claim",
+    "href": "CreateClaim2.aspx"
+  },
+  {
+    "text": "Claims Delivery",
+    "href": "#"
+  },
+  {
+    "text": "Create Batch",
+    "href": "ClaimsBatch2.aspx"
+  },
+  {
+    "text": "Upload Batch",
+    "href": "Delivery2.aspx"
+  },
+  {
+    "text": "e-Bills History",
+    "href": "ViewEbillsResults2.aspx"
+  },
+  {
+    "text": "Search",
+    "href": "Inquiry2.aspx"
+  },
+  {
+    "text": "Inbox",
+    "href": "Inbox2.aspx"
+  },
+  {
+    "text": "Settings",
+    "href": "#"
+  },
+  {
+    "text": "Change Password",
+    "href": "ChangePassword2.aspx"
+  },
+  {
+    "text": "Upload Logo",
+    "href": "UploadLogo2.aspx"
+  },
+  {
+    "text": "Post Office Credentials",
+    "href": "PostOfficeCredentials2.aspx"
+  },
+  {
+    "text": "Manage Users",
+    "href": "ManageUsers2.aspx"
+  },
+  {
+    "text": "Help",
+    "href": "#"
+  },
+  {
+    "text": "User Guide",
+    "href": "Data\\Files\\PulseUserGuideV2013.8.pdf"
+  },
+  {
+    "text": "Notifications",
+    "href": "Notifications2.aspx"
+  }
+]
