@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+log/
+debug.log
+error.log
+out.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Puppeteer/Playwright data
+screenshots/
+*.png
+*.jpg
+tmp/
+cache/
+user-data-dir/
+*.webm
+
+# ID

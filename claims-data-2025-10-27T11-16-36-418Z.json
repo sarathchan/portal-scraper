@@ -1,0 +1,279 @@
+{
+  "Authorized": {
+    "headers": [
+      "Last Update Date",
+      "Service Date",
+      "Reference #",
+      "Card #",
+      "Regulator Member ID",
+      "FOB (class)",
+      "Member",
+      "Policy #",
+      "Estimated Cost",
+      "Status"
+    ],
+    "rows": [
+      {
+        "Last Update Date": "No claims available in table",
+        "Service Date": "",
+        "Reference #": "",
+        "Card #": "",
+        "Regulator Member ID": "",
+        "FOB (class)": "",
+        "Member": "",
+        "Policy #": "",
+        "Estimated Cost": "",
+        "Status": ""
+      }
+    ]
+  },
+  "Pending": {
+    "headers": [
+      "Last Update Date",
+      "Service Date",
+      "Reference #",
+      "Card #",
+      "Regulator Member ID",
+      "FOB (class)",
+      "Member",
+      "Policy #",
+      "Estimated Cost",
+      "Pending Reason"
+    ],
+    "rows": [
+      {
+        "Last Update Date": "26/10/2025",
+        "Service Date": "25/10/2025",
+        "Reference #": "EA0045509406/1",
+        "Card #": "86CF-58F1-1D90-1F6C",
+        "Regulator Member ID": "I008-002-114858609-06",
+        "FOB (class)": "In-Patient - Semi-Private (2 Beds)",
+        "Member": "Ayoub Hamdalla - Orient Insurance PJSC",
+        "Policy #": "CPG/DHA-M/1/4/40338/2025",
+        "Estimated Cost": "3622.85 AED",
+        "Pending Reason": "Pending for Precertification"
+      }
+    ]
+  },
+  "Certified": {
+    "headers": [
+      "Last Update Date",
+      "Service Date",
+      "Reference #",
+      "Card #",
+      "Regulator Member ID",
+      "FOB (class)",
+      "Member",
+      "Policy #",
+      "Estimated Cost",
+      "Status"
+    ],
+    "rows": [
+      {
+        "Last Update Date": "27/10/2025",
+        "Service Date": "18/10/2025",
+        "Reference #": "EA0045286631/5",
+        "Card #": "5C07-F7DF-7F87-52CE",
+        "Regulator Member ID": "I001-002-112441488-01",
+        "FOB (class)": "In-Patient - Private (One Bed)",
+        "Member": "Ismail Sm Tanash - ENAYA",
+        "Policy #": "784-1971-9549027-7",
+        "Estimated Cost": "3273.21 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "27/10/2025",
+        "Service Date": "27/10/2025",
+        "Reference #": "EA0045540863/3",
+        "Card #": "0DC9-EC74-4384-788F",
+        "Regulator Member ID": "I042-002-123604168-01",
+        "FOB (class)": "Dental",
+        "Member": "QAIS NAFEZ ALAZAZI - Arabia Insurance Co. UAE",
+        "Policy #": "00005223",
+        "Estimated Cost": "131.84 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "27/10/2025",
+        "Service Date": "07/10/2025",
+        "Reference #": "EA0045240019/1",
+        "Card #": "36D4-A5DB-B713-9EDF",
+        "Regulator Member ID": "I001-002-116202567-01",
+        "FOB (class)": "In-Patient - Private (One Bed)",
+        "Member": "Kaltham Ahmed Alhammadi - ENAYA",
+        "Policy #": "784-1988-4370650-2",
+        "Estimated Cost": "1597.55 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "27/10/2025",
+        "Service Date": "27/10/2025",
+        "Reference #": "EA0045532070/1",
+        "Card #": "F4A3-6ADC-AD4D-D202",
+        "Regulator Member ID": "I001-002-112411784-01",
+        "FOB (class)": "Out-Patient",
+        "Member": "Ahmed Mohammed Dahqani Bamani - ENAYA",
+        "Policy #": "784-1986-9081360-9",
+        "Estimated Cost": "88.86 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "25/10/2025",
+        "Service Date": "25/10/2025",
+        "Reference #": "EA0045496152/2",
+        "Card #": "D94C-9DC3-A875-E872",
+        "Regulator Member ID": "I139-002-118969097-01",
+        "FOB (class)": "Chronic Out",
+        "Member": "Mitwalli Mohamed Elmitwalli Elmitwalli Salem - Orient Takaful P.J.S.C.",
+        "Policy #": "P-10-5380-5003-2025-1",
+        "Estimated Cost": "261.76 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "25/10/2025",
+        "Service Date": "18/10/2025",
+        "Reference #": "EA0045494742/2",
+        "Card #": "AD01-0B74-FDF8-E707",
+        "Regulator Member ID": "I001-002-112454701-01",
+        "FOB (class)": "Out-Patient",
+        "Member": "Aysha Mohammed Abdulla - ENAYA",
+        "Policy #": "784-1982-3951398-3",
+        "Estimated Cost": "422.86 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "25/10/2025",
+        "Service Date": "25/10/2025",
+        "Reference #": "EA0045494368/1",
+        "Card #": "F4A3-6ADC-AD4D-D202",
+        "Regulator Member ID": "I001-002-112411784-01",
+        "FOB (class)": "Out-Patient",
+        "Member": "Ahmed Mohammed Dahqani Bamani - ENAYA",
+        "Policy #": "784-1986-9081360-9",
+        "Estimated Cost": "405.5 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "25/10/2025",
+        "Service Date": "25/10/2025",
+        "Reference #": "EA0045492492/1",
+        "Card #": "17B4-8D50-ACA5-C1A8",
+        "Regulator Member ID": "I040-002-122906959-01",
+        "FOB (class)": "Out-Patient",
+        "Member": "FAIZA HABIB - Union Insurance Company P.J.S.C.",
+        "Policy #": "AE/2025/S/25820",
+        "Estimated Cost": "79.2 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "25/10/2025",
+        "Service Date": "25/10/2025",
+        "Reference #": "EA0045485457/1",
+        "Card #": "7C39-DB33-C9A8-F8DF",
+        "Regulator Member ID": "I001-002-112869814-01",
+        "FOB (class)": "Out-Patient",
+        "Member": "Amna Essa Al Mahri - ENAYA",
+        "Policy #": "784-1993-7487302-6",
+        "Estimated Cost": "450.9 AED",
+        "Status": "Pre-authorization-Authorized"
+      },
+      {
+        "Last Update Date": "23/10/2025",
+        "Service Date": "22/10/2025",
+        "Reference #": "EA0045423592/3",
+        "Card #": "408D-5D8F-F8AD-707B",
+        "Regulator Member ID": "I008-002-122683335-01",
+        "FOB (class)": "Emergency Room Services",
+        "Member": "ASER QASIM - Orient Insurance PJSC",
+        "Policy #": "P/01/1305/2025/4465",
+        "Estimated Cost": "0 AED",
+        "Status": "Pre-authorization-Declined"
+      }
+    ]
+  },
+  "Expiring": {
+    "headers": [
+      "Service Date",
+      "Reference #",
+      "Invoice #",
+      "Member",
+      "Policy #",
+      "Net Claimed",
+      "Status"
+    ],
+    "rows": [
+      {
+        "Service Date": "18/10/2025",
+        "Reference #": "EA0045310685/1",
+        "Invoice #": "7048_20251018200121_A360",
+        "Member": "AMIRA O AL . HUSSEINY - Liva Insurance B.S.C. (C) - Dubai Branch",
+        "Policy #": "5000003545",
+        "Net Claimed": "85.20 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "13/10/2025",
+        "Reference #": "EA0045163582/1",
+        "Invoice #": "7048_20251013160111_A022",
+        "Member": "Hafsa Naveed . Qazi - MetLife",
+        "Policy #": "4400308351",
+        "Net Claimed": "3,800.00 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "21/10/2025",
+        "Reference #": "EA0045393376/2",
+        "Invoice #": "7048_20251021200619_A684",
+        "Member": "YAHYA MOHAMED KHALIL MOHYELDEEN MOHAMED - Orient Insurance PJSC",
+        "Policy #": "P/01/1318/2024/39336",
+        "Net Claimed": "1,200.00 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "12/10/2025",
+        "Reference #": "EA0045379152/1",
+        "Invoice #": "7048_20251021130831_A549",
+        "Member": "HAGER MAHMOUD IBRAHIM SALIM . MOHAMED - Union Insurance Company P.J.S.C.",
+        "Policy #": "AE/2024/G/22337",
+        "Net Claimed": "4,181.13 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "17/10/2025",
+        "Reference #": "EA0045278377/1",
+        "Invoice #": "7048_20251017170955_A946",
+        "Member": "Noor Eddin Akil . Sahrij - Orient Insurance PJSC Worldwide E-Rx",
+        "Policy #": "67796",
+        "Net Claimed": "60.00 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "21/10/2025",
+        "Reference #": "EA0045380217/1",
+        "Invoice #": "7048_20251021133833_A813",
+        "Member": "Salma Ayman . Ismail - Takaful Emarat Insurance PSC",
+        "Policy #": "01-111-11-25-047927",
+        "Net Claimed": "101.60 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "12/10/2025",
+        "Reference #": "EA0045147930/4",
+        "Invoice #": "7048_20251023145400_A649",
+        "Member": "HAGER MAHMOUD IBRAHIM SALIM . MOHAMED - Union Insurance Company P.J.S.C.",
+        "Policy #": "AE/2024/G/22337",
+        "Net Claimed": "525.19 AED",
+        "Status": "Authorized"
+      },
+      {
+        "Service Date": "15/10/2025",
+        "Reference #": "EA0045211123/1",
+        "Invoice #": "7048_20251015092338_A087",
+        "Member": "Hafiz Muhamamd Yousaf Farooqi Nazir Hussain - Orient Insurance PJSC",
+        "Policy #": "CPG/DHA-B/1/3/41763/2025",
+        "Net Claimed": "1,500.00 AED",
+        "Status": "Authorized"
+      }
+    ]
+  }
+}
